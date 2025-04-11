@@ -1,0 +1,110 @@
+.ele{
+    
+    width: auto;
+    height: 630px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f4f7fc;
+}
+
+.twe{
+
+    width: 700px;
+    height: 520px;
+    display: flex;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.thir{
+    background: rgb(225, 206, 231);
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+}
+
+.fort{
+    
+    background: rgb(154, 154, 234);
+    width: 400px;
+    height: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.fort button{
+    background: rgb(225, 206, 231);
+    color: black;
+    font-weight: bold;
+    width: 150px;
+}
+
+.fift{
+    
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sixt{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+}
+
+.sixt p{
+    
+    margin-top: 0;
+    text-align: justify;
+    padding-right: 10px;
+}
+
+.sixt h4{
+    
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.sixt h1{
+    
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+.abc .nav-button{
+    border: 2px solid black;
+    border-radius: 5px;
+    background: rgb(154, 154, 234);
+}
+
+.sev{
+    
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eigh {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+}
+  
+.eigh input {
+    width: 250px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}

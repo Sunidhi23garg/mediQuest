@@ -1,0 +1,73 @@
+.nin{
+    width: auto;
+    height: 630px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f4e2f3;
+}
+
+.ten{
+    display: flex;
+}
+
+.imm{
+    width: 300px;
+    height: 350px;
+    background: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.det{
+    width: 300px;
+    height: 350px;
+    padding: 20px;
+}
+
+.det img{
+    width: 300px;
+    height: 350px;
+}
+
+.imm input, textarea {
+    width: 240px;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: #cce0ff;
+}
+
+.imm textarea {
+    height: 80px;
+    resize: none;
+}
+
+.imm button {
+    width: 260px;
+    padding: 10px;
+    background: #0c0c23;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #222;
+}
+
+@media (max-width:800px) {
+    .imm{
+        width:80vw;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .det{
+        display: none;
+    }
+    
+}

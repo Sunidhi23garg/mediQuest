@@ -1,0 +1,60 @@
+.big{
+    height: 570px;
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between; 
+    background: #f4f7fc;
+}
+
+.box{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+    text-align: justify;
+    max-width: 90%;
+}
+
+.boxtwo{
+    width: 50%;
+    height: 500px;
+    display: flex;
+}
+
+.ione{
+    width: 700px;
+    height: 400px;
+}
+
+.itwo{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: end;
+}
+
+.box .nav-button {
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+    background: rgb(225, 206, 231);
+}
+
+.highlight {
+    color: #3078c6; 
+    font-weight: bold; 
+}
+
+.box .nav-button:hover {
+    background: #77ade7;
+} 

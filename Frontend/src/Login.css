@@ -1,0 +1,63 @@
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f4f7fc;
+    height: 630px;
+}
+
+.boxx{
+    border: 2px solid black;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    background: rgb(225, 206, 231);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.log{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
+
+.for{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    color: rgb(28, 67, 157);
+}
+
+.onee{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+button{
+    width: 200px;
+    border-radius: 50px;
+    height: 40px;
+    background: rgb(117, 117, 225);
+    color: white;
+}
+
+.sign{
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.si a{
+    color: red;
+    font-weight: 600;
+}
+
+.onee input{
+    height: 30px;
+    border-radius: 5px;
+}
