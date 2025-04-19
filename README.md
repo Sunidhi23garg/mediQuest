@@ -74,7 +74,30 @@ test('GET / should return status 200', async () => {
 
 ## 📷 Screenshots
 
-- Home Page
+- Home Page  
+  
 ![image](https://github.com/user-attachments/assets/879a6f23-02b5-42e9-8f6e-2c7ab1a0c42e)
 
+- Medicine Page  
 
+![image](https://github.com/user-attachments/assets/8871c928-cda6-4805-8894-07762abfe924)
+
+- Add To Cart  
+
+![image](https://github.com/user-attachments/assets/415a10e1-ee51-472d-a4f4-71465971a64b)
+
+- Contact Us Page  
+
+![image](https://github.com/user-attachments/assets/5958138a-630e-4b93-aa73-b1a289ae554c)
+
+![image](https://github.com/user-attachments/assets/34c5ed14-4219-4e86-ae4f-e1d2666ab690)
+
+![image](https://github.com/user-attachments/assets/6627c440-036a-4b5c-a95f-494a00e767f6)
+
+- About Us Page  
+
+![image](https://github.com/user-attachments/assets/be5d4d65-41fc-4f41-9e36-403cdd28db4a)
+
+- Search Functionality
+
+![image](https://github.com/user-attachments/assets/62086168-79a5-40f6-baf8-c5244345689c)
